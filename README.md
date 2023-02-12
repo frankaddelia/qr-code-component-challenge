@@ -25,8 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[Add live site URL here](https://frankaddelia.github.io/qr-code-component-challenge/)](https://frankaddelia.github.io/qr-code-component-challenge/)
 
 ## My process
 
@@ -40,10 +39,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This project was mostly review for me, but there's always something to learn. I dove back into SASS since I haven't used it in a little bit but have been wanting to use it again. I also learned to contain an image in a div when it's overflowing by setting a max-height and max-width to the image. 
+This project was mostly review for me, but there's always something to learn. I dove back into SASS since I haven't used it in a little bit but have been wanting to use it again. I also learned to contain an image in a div when it's overflowing by setting a max-height and max-width to the image. I wasn't able to match the fonts perfectly since I'm not great at recognizing most fonts (some I can though, looking at you comic sans) and some of the styles aren't spot on since I don't have the exact dimensions.
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Useful resources
 
